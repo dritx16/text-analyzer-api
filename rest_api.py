@@ -65,7 +65,7 @@ class ServiceHandler(BaseHTTPRequestHandler):
                 # Getting key and value of the data dictionary.
                 for key, value in data.items():
                     pass
-                index = 0
+                index = 1
                 if key:
                     index = int(key[4:]) + 1
                 data["text" + str(index)] = output_data
@@ -116,7 +116,7 @@ class ServiceHandler(BaseHTTPRequestHandler):
                 # Getting key and value of the data dictionary.
                 for key, value in data.items():
                     pass
-                index = 0
+                index = 1
                 if key:
                     index = int(key[4:]) + 1
                 data["text" + str(index)] = output_data
