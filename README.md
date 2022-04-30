@@ -1,4 +1,4 @@
-# Text Analyzer With API (Python Standard Librairies Only)
+# Text Analyzer With API (Python Standard Libraries Only)
 This repository consists of implementations of text anlayzer with API included.
 
 Text analyzer includes :
