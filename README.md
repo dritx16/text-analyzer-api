@@ -1,5 +1,5 @@
-# Otsimo Online Task
-This repository consists of implementations of online task "Text Analyzer" for Otsimo summer internship application.
+# Text Analyzer With API (With Python Standard Librairies Only)
+This repository consists of implementations of text anlayzer with API included.
 
 Text analyzer includes :
   - Word count
@@ -85,6 +85,6 @@ RESPONSE:
 }
 
 ```
-- API also adds responses for each requests to db.json as well. One can check db.json file to see related responses, too.
+- API adds responses for each request to db.json as well. One can check db.json file to see related responses, too.
 
 - Finally, one can use DELETE method to delete all responses saved to db.json file.
